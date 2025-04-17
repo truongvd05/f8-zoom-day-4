@@ -1,0 +1,53 @@
+body {
+    background-color: #ccc;
+}
+.container{
+    max-width: 614px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    box-shadow: coral;
+    margin-top: 24px;
+}
+.content {
+    padding: 0 54px;
+}
+.content-title {
+    padding-top: 35px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: -12px;
+}
+.content-location {
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+}
+.content-work {
+    box-shadow: 0 1px #000;
+}
+.box{
+    display: flex;
+    margin-top: -20px;
+    margin-bottom: -25px;
+}
+.content-job-title {
+    font-size: 16px;
+}
+.content-job-date {
+    margin-left: auto;
+    font-size: 16px;
+}
+.block {
+    display: block;
+}
+ul>li {
+    font-weight: 500;
+    font-style: initial;
+    margin-left: -21px;
+    font-size: 12px;
+}
+.content-master{
+    margin-top: -10px;
+    font-size: 12px;
+}
