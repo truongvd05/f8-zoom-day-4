@@ -30,3 +30,7 @@ a {
     color: #fff;
     text-decoration: none;
 }
+.heading:hover > :not(:hover){
+    opacity: 0.5;
+    transform: scale(.85);
+}
