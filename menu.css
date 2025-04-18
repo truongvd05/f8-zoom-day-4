@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 100%;
+    height: 73px;
+    background-color: #3e5cca;
+}
+.heading {
+    list-style: none;
+    height: inherit;
+    text-align: center;
+    margin-top: 7px;
+    padding: 0 54px;
+}
+.item {
+    min-width: 100px;
+    color: #fff;
+    height: inherit;
+    padding: 24px 34px;
+    display: inline-block;
+}
+.item-home{
+    color: black;
+    background-color: #fff;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}

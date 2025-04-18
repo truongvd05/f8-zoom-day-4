@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url(https://topanh.com/wp-content/uploads/2024/01/background-cuc-dep.jpg);
+}
+h1 {
+    text-align: center;
+}
+.input-css {
+    outline: none;
+    border: 1px solid;
+    border-radius: 2px;
+    box-shadow: 1px 1px;
+}
+.container {
+    margin-top: 40px;
+    padding-top: 30px;
+    margin-bottom: 40px;
+    background-color: aliceblue;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 1px 1px;
+
+}
+.form-label, .label-file, .label-notice {
+    display: grid;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.auto {
+    text-align: center;
+}
+span {
+    padding-bottom: 1px
+}
+.label-name {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.label-img {
+    margin-left: auto;
+    margin-right: auto;
+}
